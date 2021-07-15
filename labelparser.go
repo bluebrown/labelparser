@@ -1,4 +1,4 @@
-package labelParser
+package labelparser
 
 import (
 	"strings"

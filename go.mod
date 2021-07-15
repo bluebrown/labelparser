@@ -1,3 +1,3 @@
-module github.com/bluebrown/label-parser
+module github.com/bluebrown/labelparser
 
 go 1.16
